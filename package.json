@@ -1,6 +1,6 @@
 {
   "name": "@skhemata/skhemata-pageloader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Skhemata Site Pageloader Web Component. This web component provides configurable website pageloader functionality.",
   "author": "skhemata-pageloader",
   "main": "dist/index.js",
